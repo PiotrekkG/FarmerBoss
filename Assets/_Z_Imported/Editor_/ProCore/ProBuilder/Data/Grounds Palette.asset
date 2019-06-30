@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -770389242, guid: 4df21bd079886d84699ca7be1316c7a7, type: 3}
+  m_Name: Grounds Palette
+  m_EditorClassIdentifier: 
+  array:
+  - {fileID: 2100000, guid: d3cd543372c3a024294046fc4fb62c97, type: 2}
+  - {fileID: 2100000, guid: 60c9ce2669327e347964d0124555f6a5, type: 2}
+  - {fileID: 2100000, guid: 4650cfcdac4bb954081944115d3df593, type: 2}
+  - {fileID: 2100000, guid: dfcf851817f55904da26ac26efcb36ac, type: 2}
+  - {fileID: 2100000, guid: 89002f4ebb1cd1340a60891917a13780, type: 2}
+  - {fileID: 2100000, guid: 86d5f835cfadbd74bb01cfc468a5614f, type: 2}
+  - {fileID: 2100000, guid: 02038587285300745a72e3cf1354ed8b, type: 2}
+  - {fileID: 2100000, guid: 5cfc5dcd9234a52469d11f3e6ec137a3, type: 2}
+  - {fileID: 2100000, guid: 05d0015839d048c46956015a832e59a5, type: 2}
+  - {fileID: 2100000, guid: de17dd8f09cec25438db900dd155c9f7, type: 2}

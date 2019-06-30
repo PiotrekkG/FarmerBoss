@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 52695f4f8d439214d85d6399a6a83cc7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Amiko
+  fontNames:
+  - Amiko
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 11e8621a7cd95984b9c13f193232cf88, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

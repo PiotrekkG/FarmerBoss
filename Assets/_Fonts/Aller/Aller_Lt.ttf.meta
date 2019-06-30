@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aa7d065723c086642b64503b6016e386
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aller Light
+  fontNames:
+  - Aller Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 379aa075b4014c846b1c02101e44e90c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
